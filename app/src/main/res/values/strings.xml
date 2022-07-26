@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MvcMvpMvvm</string>
+    <string name="add">추가하기</string>
 </resources>
